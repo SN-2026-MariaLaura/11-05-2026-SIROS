@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-18T12:34:18.706294+00:00",
+  "updated_at": "2026-05-18T17:30:53.178175+00:00",
   "data_referencia": "2026-05-18",
   "airport_icao": "SBCH",
   "airport_name": "SBCH",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCH",
-    "sg_aerodromo_iata": "XAP",
-    "descricao": "SERAFIN ENOSS BERTASO - CHAPECÓ - SC - BRASIL"
+    "sg_aerodromo_icao": "SBBG",
+    "sg_aerodromo_iata": "BGX",
+    "descricao": "COMANDANTE GUSTAVO KRAEMER - BAGÉ - RS - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
