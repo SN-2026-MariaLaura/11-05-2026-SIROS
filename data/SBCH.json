@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-09T12:05:30.013436+00:00",
+  "updated_at": "2026-07-09T17:23:00.733822+00:00",
   "data_referencia": "2026-07-09",
   "airport_icao": "SBCH",
   "airport_name": "SBCH",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCH",
-    "sg_aerodromo_iata": "XAP",
-    "descricao": "SERAFIN ENOSS BERTASO - CHAPECÓ - SC - BRASIL"
+    "sg_aerodromo_icao": "SBLO",
+    "sg_aerodromo_iata": "LDB",
+    "descricao": "GOVERNADOR JOSÉ RICHA - LONDRINA - PR - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
