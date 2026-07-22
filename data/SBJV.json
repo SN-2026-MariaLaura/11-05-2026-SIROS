@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-22T16:20:58.550658+00:00",
+  "updated_at": "2026-07-22T22:05:00.789687+00:00",
   "data_referencia": "2026-07-22",
   "airport_icao": "SBJV",
   "airport_name": "Joinville",
   "airport_info": {
-    "sg_aerodromo_icao": "SBJV",
-    "sg_aerodromo_iata": "JOI",
-    "descricao": "LAURO CARNEIRO DE LOYOLA - JOINVILLE - SC - BRASIL"
+    "sg_aerodromo_icao": "SBGO",
+    "sg_aerodromo_iata": "GYN",
+    "descricao": "SANTA GENOVEVA/GOIÂNIA - GOIÂNIA - GO - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
