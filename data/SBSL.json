@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-25T13:38:10.479039+00:00",
+  "updated_at": "2026-07-25T16:05:25.597348+00:00",
   "data_referencia": "2026-07-25",
   "airport_icao": "SBSL",
   "airport_name": "Sao Luis",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSL",
-    "sg_aerodromo_iata": "SLZ",
-    "descricao": "MARECHAL CUNHA MACHADO - SÃO LUÍS - MA - BRASIL"
+    "sg_aerodromo_icao": "SBRD",
+    "sg_aerodromo_iata": "ROO",
+    "descricao": "RONDONÓPOLIS - MAESTRO MARINHO FRANCO (*SWRD) - RONDONÓPOLIS - MT - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
