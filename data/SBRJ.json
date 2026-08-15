@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-15T15:21:46.734452+00:00",
+  "updated_at": "2026-08-15T21:22:14.594724+00:00",
   "data_referencia": "2026-08-15",
   "airport_icao": "SBRJ",
   "airport_name": "Rio / Santos Dumont",
   "airport_info": {
-    "sg_aerodromo_icao": "SBMG",
-    "sg_aerodromo_iata": "MGF",
-    "descricao": "SÍLVIO NAME JÚNIOR - MARINGÁ - PR - BRASIL"
+    "sg_aerodromo_icao": "SBRJ",
+    "sg_aerodromo_iata": "SDU",
+    "descricao": "SANTOS DUMONT - RIO DE JANEIRO - RJ - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
