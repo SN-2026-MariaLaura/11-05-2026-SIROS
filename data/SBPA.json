@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16T13:47:23.274223+00:00",
+  "updated_at": "2026-10-16T18:39:55.985238+00:00",
   "data_referencia": "2026-10-16",
   "airport_icao": "SBPA",
   "airport_name": "Porto Alegre",
   "airport_info": {
-    "sg_aerodromo_icao": "SBRG",
-    "sg_aerodromo_iata": "",
-    "descricao": "RIO GRANDE - RIO GRANDE - RS - BRASIL"
+    "sg_aerodromo_icao": "SBPA",
+    "sg_aerodromo_iata": "POA",
+    "descricao": "SALGADO FILHO - PORTO ALEGRE - RS - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",

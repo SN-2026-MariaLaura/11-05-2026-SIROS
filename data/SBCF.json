@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16T13:47:24.368263+00:00",
+  "updated_at": "2026-10-16T18:39:57.549925+00:00",
   "data_referencia": "2026-10-16",
   "airport_icao": "SBCF",
   "airport_name": "Belo Horizonte / Confins",
   "airport_info": {
-    "sg_aerodromo_icao": "SBUG",
-    "sg_aerodromo_iata": "URG",
-    "descricao": "RUBEM BERTA - URUGUAIANA - RS - BRASIL"
+    "sg_aerodromo_icao": "SBCF",
+    "sg_aerodromo_iata": "CNF",
+    "descricao": "TANCREDO NEVES - CONFINS - MG - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
