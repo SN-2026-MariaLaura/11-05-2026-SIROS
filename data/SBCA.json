@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-21T14:22:35.559177+00:00",
+  "updated_at": "2026-10-21T19:09:08.803132+00:00",
   "data_referencia": "2026-10-21",
   "airport_icao": "SBCA",
   "airport_name": "Cascavel",
   "airport_info": {
-    "sg_aerodromo_icao": "SBEG",
-    "sg_aerodromo_iata": "MAO",
-    "descricao": "EDUARDO GOMES - MANAUS - AM - BRASIL"
+    "sg_aerodromo_icao": "SBCA",
+    "sg_aerodromo_iata": "CAC",
+    "descricao": "CORONEL ADALBERTO MENDES DA SILVA - CASCAVEL - PR - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
